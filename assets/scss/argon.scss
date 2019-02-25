@@ -18,49 +18,17 @@
 
 // Core
 
-@import "bootstrap/functions";
+@import "../../node_modules/bootstrap/scss/functions";
 @import "custom/functions";
 
 @import "custom/variables";
-@import "bootstrap/variables";
+@import "../../node_modules/bootstrap/scss/variables";
 
-@import "bootstrap/mixins";
+//@import "bootstrap/mixins";
 @import "custom/mixins";
 
 // Bootstrap components
-
-@import "bootstrap/root";
-@import "bootstrap/reboot";
-@import "bootstrap/type";
-@import "bootstrap/images";
-@import "bootstrap/code";
-@import "bootstrap/grid";
-@import "bootstrap/tables";
-@import "bootstrap/forms";
-@import "bootstrap/buttons";
-@import "bootstrap/transitions";
-@import "bootstrap/dropdown";
-@import "bootstrap/button-group";
-@import "bootstrap/input-group";
-@import "bootstrap/custom-forms";
-@import "bootstrap/nav";
-@import "bootstrap/navbar";
-@import "bootstrap/card";
-@import "bootstrap/breadcrumb";
-@import "bootstrap/pagination";
-@import "bootstrap/badge";
-@import "bootstrap/jumbotron";
-@import "bootstrap/alert";
-@import "bootstrap/progress";
-@import "bootstrap/media";
-@import "bootstrap/list-group";
-@import "bootstrap/close";
-@import "bootstrap/modal";
-@import "bootstrap/tooltip";
-@import "bootstrap/popover";
-@import "bootstrap/carousel";
-@import "bootstrap/utilities";
-@import "bootstrap/print";
+@import "../../node_modules/bootstrap/scss/bootstrap";
 
 // Custom components
 
